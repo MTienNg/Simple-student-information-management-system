@@ -1,0 +1,20 @@
+DT01 HP01 2 Xay Dung He Thong Quan Ly Sinh Vien
+DT02 HP02 3 Phan Tich Du Lieu Thi Truong
+DT03 HP04 4 Thiet Ke He Thong Mang May Tinh
+DT04 HP01 2 Trien Khai He Quan Tri Co So Du Lieu
+DT05 HP03 5 Lap Trinh Ung Dung Web
+DT06 HP06 3 Toan cao cap A1
+DT07 HP02 1 Tu tuong Ho Chi Minh
+DT08 HP05 3 Phat Trien Ung Dung Di Dong
+DT09 HP07 4 Tri Tue Nhan Tao trong Y Te
+DT10 HP08 2 An Toan Thong Tin trong E-commerce
+DT11 HP09 3 Trien Khai Cong Nghe Phan Mem
+DT12 HP10 2 Mang di Dong va Ung Dung Cua No
+DT13 HP11 1 Quan Ly Du An Phan Mem
+DT14 HP12 3 Nghien Cuu Ung Dung Cong Nghe trong Giao Duc
+DT15 HP13 5 Ky Thuat Hien Dai trong Y Hoc
+DT16 HP14 4 Lap Trinh Android cho Ung Dung Y Te
+DT17 HP15 3 An Toan Mang va Du Lieu
+DT18 HP16 2 Toan Tin Ung Dung trong Ke Toan
+DT19 HP17 2 Mang Danh Du va Ung Dung
+DT20 HP20 5 Ky Thuat Phan Tan trong Truyen Thong

@@ -1,0 +1,234 @@
+Ma Sinh Vien: SV03
+Ho Sinh Vien: Pham
+Ten Sinh Vien: Hoang Khang     
+Ma Sinh Vien: SV04
+Ho Sinh Vien: Dang
+Ten Sinh Vien: Hoang Nam
+Ma Sinh Vien: SV20
+Ho Sinh Vien: Tran
+Ten Sinh Vien: Thi Minh Anh
+Diem tong ket: 8.120000
+Diem tong ket: 4.120000
+Diem tong ket: 7.080000
+Ma Sinh Vien: SV03
+Ho Sinh Vien: Pham
+Ten Sinh Vien: Hoang Khang     
+Ma Sinh Vien: SV04
+Ho Sinh Vien: Dang
+Ten Sinh Vien: Hoang Nam
+Ma Sinh Vien: SV05
+Ho Sinh Vien: Ho
+Ten Sinh Vien: Nguyen Linh Chi
+Ma Sinh Vien: SV20
+Ho Sinh Vien: Tran
+Ten Sinh Vien: Thi Minh Anh
+Diem tong ket: 8.000000
+Diem tong ket: 6.600000
+Diem tong ket: 5.520000
+Diem tong ket: 7.960000
+Ma Sinh Vien: SV07
+Ho Sinh Vien: Nguyen
+Ten Sinh Vien: Hoang Dat
+Ma Sinh Vien: SV19
+Ho Sinh Vien: Pham
+Ten Sinh Vien: Van Tuan
+Diem tong ket: 6.000000
+Diem tong ket: 6.600000
+Ma Sinh Vien: SV06
+Ho Sinh Vien: Nguyen
+Ten Sinh Vien: Van Quang
+Ma Sinh Vien: SV07
+Ho Sinh Vien: Nguyen
+Ten Sinh Vien: Hoang Dat
+Ma Sinh Vien: SV08
+Ho Sinh Vien: Tran
+Ten Sinh Vien: Thi Mai Anh
+Ma Sinh Vien: SV18
+Ho Sinh Vien: Le
+Ten Sinh Vien: Thi Thao
+Ma Sinh Vien: SV16
+Ho Sinh Vien: Tran
+Ten Sinh Vien: Thi Phuong Anh
+Diem tong ket: 6.520000
+Diem tong ket: 7.600000
+Diem tong ket: 9.360001
+Diem tong ket: 6.480000
+Diem tong ket: 7.560000
+Ma Sinh Vien: SV17
+Ho Sinh Vien: Nguyen
+Ten Sinh Vien: Van Thanh
+Ma Sinh Vien: SV15
+Ho Sinh Vien: Le
+Ten Sinh Vien: Van Duc
+Ma Sinh Vien: SV04
+Ho Sinh Vien: Dang
+Ten Sinh Vien: Hoang Nam
+Diem tong ket: 7.040000
+Diem tong ket: 4.800000
+Diem tong ket: 7.760000
+Ma Sinh Vien: SV14
+Ho Sinh Vien: Nguyen
+Ten Sinh Vien: Thi Thu Trang
+Diem tong ket: 8.320000
+Ma Sinh Vien: SV14
+Ho Sinh Vien: Nguyen
+Ten Sinh Vien: Thi Thu Trang
+Ma Sinh Vien: SV13
+Ho Sinh Vien: Tran
+Ten Sinh Vien: Thi Hong Nhung
+Ma Sinh Vien: SV15
+Ho Sinh Vien: Le
+Ten Sinh Vien: Van Duc
+Diem tong ket: 6.720000
+Diem tong ket: 7.120000
+Diem tong ket: 10.000000
+Ma Sinh Vien: SV08
+Ho Sinh Vien: Tran
+Ten Sinh Vien: Thi Mai Anh
+Ma Sinh Vien: SV09
+Ho Sinh Vien: Le
+Ten Sinh Vien: Thi Thu Ha
+Ma Sinh Vien: SV10
+Ho Sinh Vien: Vu
+Ten Sinh Vien: Van Long
+Ma Sinh Vien: SV02
+Ho Sinh Vien: Nguyen
+Ten Sinh Vien: Truong Khang
+Diem tong ket: 7.400000
+Diem tong ket: 6.160000
+Diem tong ket: 4.400000
+Diem tong ket: 8.720000
+Ma Sinh Vien: SV01
+Ho Sinh Vien: Nguyen
+Ten Sinh Vien: Minh Tien
+Ma Sinh Vien: SV10
+Ho Sinh Vien: Vu
+Ten Sinh Vien: Van Long
+Diem tong ket: 9.520000
+Diem tong ket: 8.800000
+Ma Sinh Vien: SV12
+Ho Sinh Vien: Nguyen
+Ten Sinh Vien: Van Hieu
+Ma Sinh Vien: SV04
+Ho Sinh Vien: Dang
+Ten Sinh Vien: Hoang Nam
+Ma Sinh Vien: SV08
+Ho Sinh Vien: Tran
+Ten Sinh Vien: Thi Mai Anh
+Diem tong ket: 8.639999
+Diem tong ket: 8.120000
+Diem tong ket: 4.000000
+Ma Sinh Vien: SV11
+Ho Sinh Vien: Phan
+Ten Sinh Vien: Thi Lan Anh
+Ma Sinh Vien: SV12
+Ho Sinh Vien: Nguyen
+Ten Sinh Vien: Van Hieu
+Diem tong ket: 5.160000
+Diem tong ket: 8.720000
+Ma Sinh Vien: SV13
+Ho Sinh Vien: Tran
+Ten Sinh Vien: Thi Hong Nhung
+Diem tong ket: 9.480000
+Ma Sinh Vien: SV19
+Ho Sinh Vien: Pham
+Ten Sinh Vien: Van Tuan
+Ma Sinh Vien: SV12
+Ho Sinh Vien: Nguyen
+Ten Sinh Vien: Van Hieu
+Ma Sinh Vien: SV18
+Ho Sinh Vien: Le
+Ten Sinh Vien: Thi Thao
+Diem tong ket: 3.000000
+Diem tong ket: 6.680000
+Diem tong ket: 7.480000
+Ma Sinh Vien: SV03
+Ho Sinh Vien: Pham
+Ten Sinh Vien: Hoang Khang     
+Ma Sinh Vien: SV06
+Ho Sinh Vien: Nguyen
+Ten Sinh Vien: Van Quang
+Ma Sinh Vien: SV09
+Ho Sinh Vien: Le
+Ten Sinh Vien: Thi Thu Ha
+Ma Sinh Vien: SV12
+Ho Sinh Vien: Nguyen
+Ten Sinh Vien: Van Hieu
+Ma Sinh Vien: SV15
+Ho Sinh Vien: Le
+Ten Sinh Vien: Van Duc
+Diem tong ket: 4.000000
+Diem tong ket: 5.560000
+Diem tong ket: 5.360000
+Diem tong ket: 7.600000
+Diem tong ket: 7.520000
+Ma Sinh Vien: SV11
+Ho Sinh Vien: Phan
+Ten Sinh Vien: Thi Lan Anh
+Ma Sinh Vien: SV05
+Ho Sinh Vien: Ho
+Ten Sinh Vien: Nguyen Linh Chi
+Ma Sinh Vien: SV20
+Ho Sinh Vien: Tran
+Ten Sinh Vien: Thi Minh Anh
+Ma Sinh Vien: SV18
+Ho Sinh Vien: Le
+Ten Sinh Vien: Thi Thao
+Ma Sinh Vien: SV16
+Ho Sinh Vien: Tran
+Ten Sinh Vien: Thi Phuong Anh
+Diem tong ket: 5.000000
+Diem tong ket: 6.800000
+Diem tong ket: 8.160000
+Diem tong ket: 5.800000
+Diem tong ket: 9.280000
+Ma Sinh Vien: SV14
+Ho Sinh Vien: Nguyen
+Ten Sinh Vien: Thi Thu Trang
+Ma Sinh Vien: SV07
+Ho Sinh Vien: Nguyen
+Ten Sinh Vien: Hoang Dat
+Ma Sinh Vien: SV09
+Ho Sinh Vien: Le
+Ten Sinh Vien: Thi Thu Ha
+Diem tong ket: 6.480000
+Diem tong ket: 8.500000
+Diem tong ket: 4.160000
+Ma Sinh Vien: SV10
+Ho Sinh Vien: Vu
+Ten Sinh Vien: Van Long
+Ma Sinh Vien: SV11
+Ho Sinh Vien: Phan
+Ten Sinh Vien: Thi Lan Anh
+Diem tong ket: 6.560000
+Diem tong ket: 7.560000
+Ma Sinh Vien: SV13
+Ho Sinh Vien: Tran
+Ten Sinh Vien: Thi Hong Nhung
+Ma Sinh Vien: SV14
+Ho Sinh Vien: Nguyen
+Ten Sinh Vien: Thi Thu Trang
+Diem tong ket: 6.520000
+Diem tong ket: 8.140000
+Ma Sinh Vien: SV04
+Ho Sinh Vien: Dang
+Ten Sinh Vien: Hoang Nam
+Ma Sinh Vien: SV08
+Ho Sinh Vien: Tran
+Ten Sinh Vien: Thi Mai Anh
+Ma Sinh Vien: SV16
+Ho Sinh Vien: Tran
+Ten Sinh Vien: Thi Phuong Anh
+Ma Sinh Vien: SV02
+Ho Sinh Vien: Nguyen
+Ten Sinh Vien: Truong Khang
+Ma Sinh Vien: SV07
+Ho Sinh Vien: Nguyen
+Ten Sinh Vien: Hoang Dat
+Diem tong ket: 7.620000
+Diem tong ket: 6.000000
+Diem tong ket: 5.000000
+Diem tong ket: 8.000000
+Diem tong ket: 6.000000
+Ma hoc phan: HP01
+Ten hoc phan: Lap Trinh Nhung
